@@ -6,15 +6,15 @@ body{
 
 @font-face {
     font-family: NB;
-    src: url(NBInternationalProBoo.ttf);
+    src: url(NBInternationalProBoo1.woff2);
 }
 @font-face {
     font-family: headline;
-    src: url(Rejouice-Headline.ttf);
+    src: url(Rejouice-Headline1.woff2);
 }
 @font-face {
     font-family: orbitron;
-    src: url(Orbitron-VariableFont_wght.ttf);
+    src: url(Orbitron-VariableFont_wght.woff2);
 }
 
 
